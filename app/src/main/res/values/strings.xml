@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Restorani Osijek</string>
+
+    <string name="Rustika_ime">Rustika</string>
+    <string name="Rustika_adresa">Ul. Pavla Pejačevića 32, 31000, Osijek</string>
+    <string name="Rustika_opis">Restoran se nalazi 300 metara zapadno od osječke Konkatedrale ili 400 koraka od središnjeg osječkog Trga</string>
+
+    <string name="Strossmaer_ime">PIZZERIA STROSSMAYER</string>
+    <string name="Strossmaer_adresa">Ul. Josipa Jurja Strossmayera 133, 31000, Osijek</string>
+    <string name="Strossmaer_opis">Pizzeria Strossmayer ima tradiciju gotovo 20 godina u kojima smo težili zadovoljiti preferencije i želje svih naših gostiju</string>
+
+    <string name="Sebastian_ime">Sebastian</string>
+    <string name="Sebastian_adresa">Sjenjak ul. 59, 31000, Osijek</string>
+    <string name="Sebastian_opis">Jedina prava pizzeria u gradu</string>
+
+    <string name="Karaka_ime">Restoran Karaka</string>
+    <string name="Karaka_adresa">Kneza Trpimira 16, 31000, Osijek</string>
+    <string name="Karaka_opis">Restoran smo s prepoznatljivom tradicijom i kvalitetom. Dokaz tome je naše  višegodišnje uspješno poslovanje a koje je utemeljeno prije svega na našem pristupu posjetiteljima i timskom radu osoblja i brojnih stručnih suradnika</string>
+
+    <string name="Corner_ime">Restaurant Corner</string>
+    <string name="Corner_adresa">Velebitska ul., 31000, Osijek</string>
+    <string name="Corner_opis">Restoran Corner je visoko kvalitetan restoran u Osijeku sa uzbudljivom ponudom mesnih i ribljih specijaliteta, uz impresivnu vinsku kartu i vrhunska piva!</string>
+
+    <string name="Bijelo_plavi_ime">Bijelo plavi</string>
+    <string name="Bijelo_plavi_adresa">Divaltova 8,31000, Osijek</string>
+    <string name="Bijelo_plavi_opis">Naš cilj je osigurati Vam nezaboravan doživljaj, s besprijekornom uslugom i dobru hranu. Uživajte u krajnjem gurmanskom iskustvu lokalnih okusa</string>
+
+    <string name="Kompa_ime">RESTORAN KOMPA</string>
+    <string name="Kompa_adresa">Splavarska ul. 1, 31000, Osijek</string>
+    <string name="Kompa_opis">Restoran Kompa leži uz desnu obalu rijeke Drave s terasom koja u vrućim ljetnim mjesecima pruža osvježenje svojim gostima, a u večernjim satima može se uživati u prekrasnim zalascima sunca</string>
+
+    <string name="Slavonska_kuca_ime">SLAVONSKA KUĆA</string>
+    <string name="Slavonska_kuca_adresa">Ul. Kamila Firingera 26, 31000, Osijek</string>
+    <string name="Slavonska_kuca_opis">Restoran Slavonska kuća otvorena ja 1994. godine u staroj jezgri Osijeka, povjesnoj Tvrđi, otvorio ga je legendarni osječki ugostitelj Geza Gudlin</string>
+
+    <string name="Kopika_ime">Restoran Kopika</string>
+    <string name="Kopika_adresa">Tvrđavica bb, 31000, Osijek</string>
+    <string name="Kopika_opis">Restoran Kopika pozicioniran je na lijevoj obali rijeke Drave nasuprot barokne Tvrđe, između cestovnog i visećeg dravskog mosta, odmah do rekreacijskog centra Copacabana</string>
+
+    <string name="American_bar_ime">American bar Dollar</string>
+    <string name="American_bar_adresa">Županijska ul. 5, 31000, Osijek</string>
+    <string name="American_bar_opis">U želji da ljudima u Osijeku približimo neku novu priču s američkom kuhinjom, odlučili smo otvoriti naš bar u suradnji s proizvođačima domaće organske hrane. Kod nas ćete naći američke klasike:BBQ Spare Ribs, Club Sandwich, Chicken Wings, Steaks and Burgers</string>
+
+</resources>
